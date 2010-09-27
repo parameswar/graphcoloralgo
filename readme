@@ -1,0 +1,2 @@
+The logic of the algorithm is , no two adjacent nodes should have the same colour. The idea of the algorithm is to use minimal number of colours to colour the graph.
+
